@@ -39,7 +39,7 @@
 <div align="center">
 
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Slaqvi&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadRizqiAkbar170&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Slaqvi&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadRizqiAkbar170&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Slaqvi">
+<a href="https://github.com/MuhammadRizqiAkbar170i">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
