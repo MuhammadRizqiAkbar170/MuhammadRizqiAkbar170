@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<a href="https://github.com/MuhammadRizqiAkbar170i">
+<a href="https://github.com/MuhammadRizqiAkbar170">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
