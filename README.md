@@ -37,7 +37,7 @@
 # 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=MuhammadRizqiAkbar170&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadRizqiAkbar170&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </div>
 
 
