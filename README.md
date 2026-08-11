@@ -73,9 +73,11 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:muhammadrizqiakbar170@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<div align="center">
+  <a href="mailto:muhammadrizqiakbar170@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</div>
 
 </div>
 
