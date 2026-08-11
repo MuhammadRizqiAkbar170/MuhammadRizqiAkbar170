@@ -37,10 +37,7 @@
 # 📊 GitHub Statistics
 
 <div align="center">
-
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadRizqiAkbar170&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://streak-stats.demolab.com/?user=MuhammadRizqiAkbar170&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 
