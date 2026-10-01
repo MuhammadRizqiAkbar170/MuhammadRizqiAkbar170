@@ -42,38 +42,6 @@
 
 ---
 
-# 📂 Projects
-
-<div align="center">
-
-<a href="https://github.com/MuhammadRizqiAkbar170/basic-html-assignment">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadRizqiAkbar170&repo=basic-html-assignment&theme=tokyonight&hide_border=true"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/MuhammadRizqiAkbar170/web-ai-assignment">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadRizqiAkbar170&repo=web-ai-assignment&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-### 🌐 Other Projects
-
-**🍽️ Restaurant Website**
-
-Modern restaurant front-end website built with HTML and CSS.
-
-**🎮 Nino Store**
-
-Gaming-themed web interface developed as a front-end project.
-
-**🏫 School Event Website**
-
-Website for presenting school event information.
-
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
