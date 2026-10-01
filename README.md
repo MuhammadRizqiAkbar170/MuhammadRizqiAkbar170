@@ -18,21 +18,31 @@
 
 ---
 
-# 👨‍💻 About Me
+<h1 align="center">👨‍💻 About Me</h1>
 
-🎓 Software Engineering (RPL) Student at **SMK Muhammadiyah 1 Yogyakarta**
+<p align="center">
+🎓 Software Engineering (RPL) Student at <strong>SMK Muhammadiyah 1 Yogyakarta</strong>
+</p>
 
+<p align="center">
 💻 I enjoy solving programming problems, learning algorithms, and building useful software.
+</p>
 
-### 🏆 Achievements
+<h2 align="center">🏆 Achievements</h2>
 
-- 📚 Consistently ranked in the **Top 10** during Grade 10 (Semester 1 & Semester 2)
-- 💻 Participant of **National Programming Competition – Toprank 2026 | Logic Code Live**
-- 🚀 Continuously improving problem-solving and software development skills
+<div align="center">
+
+📚 Consistently ranked in the <strong>Top 10</strong> during Grade 10 (Semester 1 & Semester 2)
+
+💻 Participant of <strong>National Programming Competition – Toprank 2026 | Logic Code Live</strong>
+
+🚀 Continuously improving problem-solving and software development skills
+
+</div>
 
 ---
 
-# 🛠 Tech Stack
+<h1 align="center">🛠 Tech Stack</h1>
 
 <div align="center">
 
@@ -42,37 +52,25 @@
 
 ---
 
-# 📂 Projects
+<h1 align="center">📂 Projects</h1>
 
 <div align="center">
 
 <a href="https://github.com/MuhammadRizqiAkbar170/basic-html-assignment">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadRizqiAkbar170&repo=basic-html-assignment&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadRizqiAkbar170&repo=basic-html-assignment&theme=tokyonight&hide_border=true"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/MuhammadRizqiAkbar170/web-ai-assignment">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadRizqiAkbar170&repo=web-ai-assignment&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadRizqiAkbar170&repo=web-ai-assignment&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
-### 🌐 Other Projects
-
-**🍽️ Restaurant Website**
-
-Modern restaurant front-end website built with HTML and CSS.
-
-**🎮 Nino Store**
-
-Gaming-themed web interface developed as a front-end project.
-
-**🏫 School Event Website**
-
-Website for presenting school event information.
-
 ---
 
-# 📊 GitHub Statistics
+<h1 align="center">📊 GitHub Statistics</h1>
 
 <div align="center">
 
@@ -88,41 +86,49 @@ Website for presenting school event information.
 
 ---
 
-# 🎯 2026 Goals
+<h1 align="center">🎯 2026 Goals</h1>
 
-- Improve Data Structures & Algorithms
-- Solve 500+ Competitive Programming Problems
-- Build Full Stack Projects
-- Contribute to Open Source
-- Achieve Great Results in National Programming Competitions
+<div align="center">
+
+Improve Data Structures & Algorithms
+
+Solve 500+ Competitive Programming Problems
+
+Build Full Stack Projects
+
+Contribute to Open Source
+
+Achieve Great Results in National Programming Competitions
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+<h1 align="center">🌐 Connect With Me</h1>
 
-<table>
-<tr>
-<td align="center">
+<p align="center">
+
 <a href="https://github.com/MuhammadRizqiAkbar170">
-<img src="https://skillicons.dev/icons?i=github" width="90" height="90" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=github" width="90" alt="GitHub"/>
 </a>
-</td>
 
-<td width="40"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
 <a href="mailto:muhammadrizqiakbar170@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="90" height="90" alt="Email"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="90" alt="Email"/>
 </a>
-</td>
-</tr>
-</table>
 
-### 💬 Favorite Quote
+</p>
 
-*"Success is built one line of code at a time."* 🚀
+---
 
-<br>
+<div align="center">
+
+<h2>💬 Favorite Quote</h2>
+
+<i>"Success is built one line of code at a time." 🚀</i>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:0369A1,100:0F172A" width="100%"/>
 
