@@ -96,8 +96,6 @@ Website for presenting school event information.
 
 </div>
 
----
-
 # 🎯 2026 Goals
 
 - Improve Data Structures & Algorithms
