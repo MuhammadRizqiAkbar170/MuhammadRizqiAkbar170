@@ -103,20 +103,28 @@ Website for presenting school event information.
 <div align="center">
 
 <a href="https://github.com/MuhammadRizqiAkbar170">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" width="75" height="75" alt="GitHub"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:muhammadrizqiakbar170@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="75" height="75" alt="Gmail"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/MuhammadRizqiAkbar170">
+<strong>GitHub</strong>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:muhammadrizqiakbar170@gmail.com">
+<strong>muhammadrizqiakbar170@gmail.com</strong>
 </a>
 
 </div>
-
----
-
-<div align="center">
 
 ### 💬 Favorite Quote
 
