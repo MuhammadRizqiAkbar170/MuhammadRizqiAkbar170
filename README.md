@@ -100,19 +100,23 @@ Website for presenting school event information.
 
 # 🌐 Connect With Me
 
-<div align="center">
-
+<table>
+<tr>
+<td align="center">
 <a href="https://github.com/MuhammadRizqiAkbar170">
-  <img src="https://skillicons.dev/icons?i=github" width="80" height="80" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=github" width="90" height="90" alt="GitHub"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="40"></td>
 
+<td align="center">
 <a href="mailto:muhammadrizqiakbar170@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="80" height="80" alt="Email"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="90" height="90" alt="Email"/>
 </a>
-
-</div>
+</td>
+</tr>
+</table>
 
 ### 💬 Favorite Quote
 
