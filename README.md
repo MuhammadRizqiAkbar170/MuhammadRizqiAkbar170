@@ -88,14 +88,6 @@ Website for presenting school event information.
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadRizqiAkbar170&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%"/>
-
-</div>
-
 # 🎯 2026 Goals
 
 - Improve Data Structures & Algorithms
