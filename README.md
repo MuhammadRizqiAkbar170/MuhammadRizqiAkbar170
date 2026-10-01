@@ -100,25 +100,29 @@ Website for presenting school event information.
 
 ---
 
-<h1 align="center">🌐 Connect With Me</h1>
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
-
-<a href="https://github.com/MuhammadRizqiAkbar170">
-<img src="https://skillicons.dev/icons?i=github" width="90" alt="GitHub"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:muhammadrizqiakbar170@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="90" alt="Email"/>
-</a>
-
+  <a href="https://github.com/MuhammadRizqiAkbar170">
+    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:muhammadrizqiakbar170@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" alt="X"/>
+  </a>
 </p>
-
----
-
-<div align="center">
 
 ### 💬 Favorite Quote
 
