@@ -78,9 +78,13 @@ Website for presenting school event information.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadRizqiAkbar170&theme=tokyonight" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadRizqiAkbar170&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadRizqiAkbar170&theme=tokyonight" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizqiAkbar170&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=MuhammadRizqiAkbar170&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
