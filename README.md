@@ -83,7 +83,6 @@ Website for presenting school event information.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizqiAkbar170&layout=compact&hide_border=true&theme=tokyonight&langs_count=5" height="170"/>
 
 </div>
----
 
 # 🎯 2026 Goals
 
