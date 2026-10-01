@@ -109,18 +109,6 @@ Website for presenting school event information.
     <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" alt="X"/>
-  </a>
-</p>
 
 ### 💬 Favorite Quote
 
