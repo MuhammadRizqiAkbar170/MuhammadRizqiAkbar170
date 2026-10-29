@@ -6,10 +6,6 @@
 
 ### Software Engineering Student And Competitive Programming Enthusiast 
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=MuhammadRizqiAkbar170&style=flat-square&color=00C2FF&label=PROFILE+VIEWS"/>
-
 </div>
 
 ---
