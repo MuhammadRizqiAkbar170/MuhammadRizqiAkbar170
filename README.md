@@ -16,17 +16,17 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
-🎓 Software Engineering (RPL) Student at **SMK Muhammadiyah 1 Yogyakarta**
+ Software Engineering (RPL) Student at **SMK Muhammadiyah 1 Yogyakarta**
 
-💻 I enjoy solving programming problems, learning algorithms, and building useful software.
+ I enjoy solving programming problems, learning algorithms, and building useful software.
 
 ### 🏆 Achievements
 
-- 📚 Consistently ranked in the **Top 10** during Grade 10 (Semester 1 & Semester 2)
-- 💻 Participant of **National Programming Competition – Toprank 2026 | Logic Code Live**
-- 🚀 Continuously improving problem-solving and software development skills
+-  Consistently ranked in the **Top 10** during Grade 10 (Semester 1 & Semester 2)
+-  Participant of **National Programming Competition – Toprank 2026 | Logic Code Live**
+-  Continuously improving problem-solving and software development skills
 
 ---
 
