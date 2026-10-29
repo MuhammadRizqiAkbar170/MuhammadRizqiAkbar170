@@ -42,7 +42,7 @@
 
 # 📊 GitHub Statistics
 
-<br><br>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=MuhammadRizqiAkbar170&theme=tokyonight&hide_border=true" height="170"/>
 
