@@ -30,7 +30,7 @@
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -40,7 +40,7 @@
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <br>
 
@@ -48,7 +48,7 @@
 
 </div>
 
-# 🎯 2026 Goals
+#  2026 Goals
 
 - Improve Data Structures & Algorithms
 - Solve 500+ Competitive Programming Problems
