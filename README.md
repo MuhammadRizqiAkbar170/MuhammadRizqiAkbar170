@@ -8,7 +8,6 @@
 
 </div>
 
-<center>
 ---
 
 #  About Me
@@ -75,4 +74,3 @@
 
 
 </div>
-</center>
