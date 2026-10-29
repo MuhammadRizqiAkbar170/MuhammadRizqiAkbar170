@@ -9,7 +9,7 @@
 </div>
 
 ---
-
+<center> 
 #  About Me
 
  Software Engineering Student at **SMK Muhammadiyah 1 Yogyakarta**
@@ -71,5 +71,6 @@
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:0369A1,100:0F172A" width="100%"/>
+</center>
 
 </div>
