@@ -4,7 +4,7 @@
 
 <br>
 
-### Software Engineering Student And Competitive Programming Enthusiast 
+### Aspiring Backend & Systems Engineer
 
 </div>
 
@@ -12,7 +12,7 @@
 
 #  About Me
 
- Software Engineering (RPL) Student at **SMK Muhammadiyah 1 Yogyakarta**
+ Software Engineering Student at **SMK Muhammadiyah 1 Yogyakarta**
 
  I enjoy solving programming problems, learning algorithms, and building useful software.
 
