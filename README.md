@@ -6,8 +6,6 @@
 
 ### Software Engineering Student And Competitive Programming Enthusiast 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Python+Developer;Competitive+Programming+Enthusiast;Toprank+2026+Logic+Code+Live+Participant;Web+Developer;Always+Learning+New+Things+%F0%9F%9A%80"/>
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=MuhammadRizqiAkbar170&style=flat-square&color=00C2FF&label=PROFILE+VIEWS"/>
