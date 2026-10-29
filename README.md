@@ -42,10 +42,6 @@
 
 # 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizqiAkbar170&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=MuhammadRizqiAkbar170&theme=tokyonight&hide_border=true" height="170"/>
